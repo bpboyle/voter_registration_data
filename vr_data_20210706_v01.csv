@@ -1,0 +1,683 @@
+country_year,changes,vr_type,passive_registration,vr_cat,notes,evidence,source_name,source_link,
+Albania 2005            ,,passive,yes,2,"new voter database created pre election, door to door canvassing conducted by local government authorities"," . . . an overhaul of the civil registers kept and maintained by local government units, and compilation of temporary resident registers with the civil registry offices, were to be conducted. For this purpose, a door-to-door verification and identification process was carried out between November 2004 and February 2005. Once identified and verified, citizens would be assigned a ten-digit ‘numerical address’ based on digital locality maps. Secondly, new computerised voter lists, based on civil registries, had to be compiled from scratch locally. Both tasks were to be performed by local government units'","REPUBLIC OF ALBANIA PARLIAMENTARY ELECTIONS 3 July 2005, OSCE/ODIHR Election Observation Mission Report, p. 11",https://www.osce.org/odihr/elections/albania/16856?download=true,
+Argentina 2015,,passive,yes,2,voters automatically added to electoral roll after cross checking with existing databases,Argentina: Local election officials add eligible citizens to the voter rolls from a national list of all citizens maintained by a federal agency.',"Rosenberg, J. S., & Chen, M. (2009). Expanding democracy: Voter registration around the world. Brennan Centre for Justice Report, p. 5;  ACE Project, Voter Registration",https://www.brennancenter.org/sites/default/files/legacy/publications/Expanding.Democracy.pdf; https://aceproject.org/epic-en/CDTable?view=country&question=VR008,
+Australia 2004        ,mixed/state initiated,passive,yes,2,voter register created using data from other government agencies,"Australia: Election officials gather information from other government agencies to identify voting eligible individuals who are unregistered, and mail these individuals registration materials. (p.5); 
+Australia’s election agency learns about young voters from various institutions and agencies, similar to those in the countries above, including its departments of motor vehicles. Australia’s voter database culls data provided by these agencies; whenever it identifies anyone who is eligible yet unregistered to vote, election officials send that person a voter registration form with a pre-paid return envelope. (p.11);
+Canada, Australia, and a number of Canadian provinces all overhauled their registration systems in the late 1990s. Over the course of several years, they introduced voter databases that stay current using a basic structure prevalent in other advanced democracies as well: processing data that is continuously provided by other government agencies. Their experiences demonstrate that, with the proper safeguards, data-sharing can make the rolls more accurate. This is true not only because other agencies have more up-to-date information — including data on address changes — but also because eliminating the need for voters to submit paperwork to election officials drastically reduces the risk of inaccuracies on the voter rolls due to clerical error or mail problems. (p.26)","Rosenberg, J. S., & Chen, M. (2009). Expanding democracy: Voter registration around the world. Brennan Centre for Justice Report",https://www.brennancenter.org/sites/default/files/legacy/publications/Expanding.Democracy.pdf,
+Australia 2007                ,mixed/state initiated,passive,yes,2,voter register created using data from other government agencies,"Australia: Election officials gather information from other government agencies to identify voting eligible individuals who are unregistered, and mail these individuals registration materials. (p.5); 
+Australia’s election agency learns about young voters from various institutions and agencies, similar to those in the countries above, including its departments of motor vehicles. Australia’s voter database culls data provided by these agencies; whenever it identifies anyone who is eligible yet unregistered to vote, election officials send that person a voter registration form with a pre-paid return envelope. (p.11);
+Canada, Australia, and a number of Canadian provinces all overhauled their registration systems in the late 1990s. Over the course of several years, they introduced voter databases that stay current using a basic structure prevalent in other advanced democracies as well: processing data that is continuously provided by other government agencies. Their experiences demonstrate that, with the proper safeguards, data-sharing can make the rolls more accurate. This is true not only because other agencies have more up-to-date information — including data on address changes — but also because eliminating the need for voters to submit paperwork to election officials drastically reduces the risk of inaccuracies on the voter rolls due to clerical error or mail problems. (p.26)","Rosenberg, J. S., & Chen, M. (2009). Expanding democracy: Voter registration around the world. Brennan Centre for Justice Report",https://www.brennancenter.org/sites/default/files/legacy/publications/Expanding.Democracy.pdf,
+Australia 2013                ,mixed/state initiated,passive,yes,2,"voter register created using data from other government agencies. Government cehcks data against electoral register, and contacts any citizens if confirmation/additional information is required. ","The FDEU program will only apply when sufficient information is available from other government agencies. We will write to you and let you know if we intend to add your name and address to the electoral roll or update your details. You do not need to reply to the letter if the details are correct. If the details are incorrect, you have 28 days to respond before any action is taken. When individual details are provided to another agency, that agency will have informed you that your information would be shared with other government agencies. The external data received may include details of an individual's surname, given name(s), date of birth, and address. That data is examined and matched against the electoral roll to identify people who are entitled to enrol and are not currently enrolled, and those who are entitled to enrol but require an update to their enrolment details.",Australian Electoral Commission,https://www.aec.gov.au/Enrolling_to_vote/About_Electoral_Roll/direct.htm,
+Austria 2008                 ,,passive,yes,2,automatic - updated from national population registry,"Local election officials automatically generate voter lists from larger population databases maintained
+at the municipal level. Inclusion on the municipal database is mandatory.; 
+Voter registration in Austria is passive, as voter lists are extracted from the Central
+Registry (Zentrales Melderegister), which is administered by the Central Residency
+Register Department within the FMI. The voter register is maintained by 2,357 municipal
+election authorities, apart from Vienna, where updating the voter register is the
+responsibility of its 23 districts.
+The Central Registry is an electronic database used for multiple purposes, including
+residence, property, car registration and tax. Various governmental agencies may access
+different parts of the database directly through a complex and secure e-government web
+application. Entries and changes are done electronically, allowing for continuous
+updating of data. OSCE/ODIHR EAM interlocutors expressed no concerns, and have a
+high degree of confidence in their accuracy. ","Rosenberg, J. S., & Chen, M. (2009). Expanding democracy: Voter registration around the world. Brennan Centre for Justice Report, p. 5; 
+REPUBLIC OF AUSTRIA - PRESIDENTIAL ELECTION - 25 April 2010, OSCE/ODIHR Election Assessment Mission Report 
+",https://www.brennancenter.org/sites/default/files/legacy/publications/Expanding.Democracy.pdf; https://www.osce.org/odihr/elections/69071?download=true,
+Austria 2013                 ,,passive,yes,2,automatic - updated from national population registry,"Voter registration is passive. Voters are automatically included in the voter lists by municipal
+authorities according to their place of main residence, except citizens living abroad who have to
+register actively.","REPUBLIC OF AUSTRIA - EARLY PARLIAMENTARY ELECTIONS - 15 October 2017, OSCE/ODIHR Election Assessment Mission Final Report
+",https://www.osce.org/odihr/elections/austria/370866?download=true,
+Belarus 2008                  ,,passive,yes,2,voter lists compiled by electoral commissions at the precinct level,"Voter registration in Belarus can be characterised as typical of a Periodic List Voter Registration
+system. Voter lists were compiled for each precinct by relevant local administrations and were
+then updated by PECs. The current legal framework does not provide for a consolidated or
+centralized voter list at any level above the PEC. Thus, possibilities for performing expedient
+cross-checks for multiple voter registration or for errors in the data did not exist.
+The EC allows voters to check their own personal details in voter lists, but does not provide for
+voter lists to be displayed in public places. Voters had to visit their respective PEC offices in
+person to check their data. Voter lists remained open and voters could be included on additional
+voting lists until the close of polls, provided that they could prove their identity and residence in
+the constituency in ques","BELARUS - PARLIAMENTARY ELECTIONS - 28 September 2008, OSCE/ODIHR Election Observation Mission Final Report
+",https://www.osce.org/odihr/elections/belarus/35123?download=true,
+Belgium 2003                  ,,passive,yes,2,registration list automatically created from existing population database,"Following the terms of the 1991 Law on Population Registries and Identity Cards, every Belgian citizen must register with the population register of the municipality where s/he primarily resides. This implies de facto that all citizen residents who do not find themselves in an exclusionary case defined by the Electoral Code are automatically registered as voters;
+Local election officials automatically generate voter lists from larger population databases maintained
+at the municipal level. Inclusion on the municipal database is mandatory.","Lafleurm, J-M. (2013) 'Access to Electoral Rights: Belgium' ; Rosenberg, J. S., & Chen, M. (2009). Expanding democracy: Voter registration around the world. Brennan Centre for Justice Report, p. 5",http://cadmus.eui.eu/bitstream/handle/1814/29804/ER_2013_04-Belgium-FRACIT.pdf?sequence=1; https://www.brennancenter.org/sites/default/files/legacy/publications/Expanding.Democracy.pdf,
+Brazil 2002                  ,,active,no,0,"voting and registration is compulsory, but citizens must register themselves","  Voting is considered both a right and a duty in Brazil; thus, registration and voting are compulsory between the ages of eighteen and seventy
+ As noted earlier, voting is compulsory for all literate citizens between the ages of 18 and 69 it is voluntary for illiterates and for those aged 16-17 and 70
+and over. This means that citizens in the compulsory category must seek out the electoral justice and apply for a t¡tulo eleitoral (voter registration card), but citizens
+in the voluntary category are not required to register.;
+Anybody going to the ballot boxes must also have a voter registration, even though this document does not need to be presented when voting.
+To obtain a voter registration, the person must just go to his electoral notary with a birth certificate, worker registration or other personal identification.","Power, T (2009) 'Compulsory for Whom? Mandatory Voting and Electoral Participation in Brazil, 1986-2006', Journal of Politics in Latin America,  1,  pp. 97-122; The Brazil Business - Elections in Brazil (2014) - Online article
+",http://countrystudies.us/brazil/100.htm; http://thebrazilbusiness.com/article/elections-in-brazil,
+Brazil 2006                  ,,active,no,0,"voting and registration is compulsory, but citizens must register themselves","  Voting is considered both a right and a duty in Brazil; thus, registration and voting are compulsory between the ages of eighteen and seventy
+ As noted earlier, voting is compulsory for all literate citizens between the ages of 18 and 69 it is voluntary for illiterates and for those aged 16-17 and 70
+and over. This means that citizens in the compulsory category must seek out the electoral justice and apply for a t¡tulo eleitoral (voter registration card), but citizens
+in the voluntary category are not required to register.;
+Anybody going to the ballot boxes must also have a voter registration, even though this document does not need to be presented when voting.
+To obtain a voter registration, the person must just go to his electoral notary with a birth certificate, worker registration or other personal identification.","Power, T (2009) 'Compulsory for Whom? Mandatory Voting and Electoral Participation in Brazil, 1986-2006', Journal of Politics in Latin America,  1,  pp. 97-122; The Brazil Business - Elections in Brazil (2014) - Online article
+",http://countrystudies.us/brazil/100.htm; http://thebrazilbusiness.com/article/elections-in-brazil,
+Brazil 2010                   ,,active,no,0,"voting and registration is compulsory, but citizens must register themselves","  Voting is considered both a right and a duty in Brazil; thus, registration and voting are compulsory between the ages of eighteen and seventy
+ As noted earlier, voting is compulsory for all literate citizens between the ages of 18 and 69 it is voluntary for illiterates and for those aged 16-17 and 70
+and over. This means that citizens in the compulsory category must seek out the electoral justice and apply for a t¡tulo eleitoral (voter registration card), but citizens
+in the voluntary category are not required to register.;
+Anybody going to the ballot boxes must also have a voter registration, even though this document does not need to be presented when voting.
+To obtain a voter registration, the person must just go to his electoral notary with a birth certificate, worker registration or other personal identification.","Power, T (2009) 'Compulsory for Whom? Mandatory Voting and Electoral Participation in Brazil, 1986-2006', Journal of Politics in Latin America,  1,  pp. 97-122; The Brazil Business - Elections in Brazil (2014) - Online article
+",http://countrystudies.us/brazil/100.htm; http://thebrazilbusiness.com/article/elections-in-brazil,
+Brazil 2014                  ,,active,no,0,"voting and registration is compulsory, but citizens must register themselves","  Voting is considered both a right and a duty in Brazil; thus, registration and voting are compulsory between the ages of eighteen and seventy
+ As noted earlier, voting is compulsory for all literate citizens between the ages of 18 and 69 it is voluntary for illiterates and for those aged 16-17 and 70
+and over. This means that citizens in the compulsory category must seek out the electoral justice and apply for a t¡tulo eleitoral (voter registration card), but citizens
+in the voluntary category are not required to register.;
+Anybody going to the ballot boxes must also have a voter registration, even though this document does not need to be presented when voting.
+To obtain a voter registration, the person must just go to his electoral notary with a birth certificate, worker registration or other personal identification.","Power, T (2009) 'Compulsory for Whom? Mandatory Voting and Electoral Participation in Brazil, 1986-2006', Journal of Politics in Latin America,  1,  pp. 97-122; The Brazil Business - Elections in Brazil (2014) - Online article
+",http://countrystudies.us/brazil/100.htm; http://thebrazilbusiness.com/article/elections-in-brazil,
+Bulgaria 2001         ,,passive,yes,2,"passive registration, voter lists are created from existing population databases","Under the supervision of the RECs, the municipal administrative authorities in each election
+section compile voter lists according to the permanent residence of the eligible voters. ","REPUBLIC OF BULGARIA - PARLIAMENTARY ELECTIONS - 17 June 2001, OSCE FINAL REPORT, p.7
+",https://www.osce.org/odihr/elections/bulgaria/16029?download=true,
+Bulgaria 2014                 ,,passive,yes,2,"passive registration, voter lists are created from existing population databases","Voter registration is passive. The CEC is required to maintain an updated list of people with voting
+rights based on data from the National Population Register maintained by the Directorate General of
+Civil Registration and Administrative Services at the Ministry of Regional Development (GRAO). The
+GRAO is responsible for printing voter lists, which are compiled for each municipality on the basis of a
+voter?s permanent address. The law does not provide for a permanent voter register.","OSCE/ODIHR Limited Election Observation Mission Final Report, REPUBLIC OF BULGARIA - EARLY PARLIAMENTARY ELECTIONS - 5 October 2014
+",https://www.osce.org/odihr/elections/bulgaria/133571?download=true,
+Canada 2004                 ,,passive,yes,2,"automatic registration, information is gathered from existing population databases. Other methods also used across different provinces.","Election officials use information collected from other government agencies to add eligible citizens to the rolls. If more information is required, election officials mail individuals pre-printed registration forms, with postage-paid return envelopes.","Rosenberg, J. S., & Chen, M. (2009). Expanding democracy: Voter registration around the world. Brennan Centre for Justice Report, p. 5; Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), pp. 68-72",https://www.brennancenter.org/sites/default/files/legacy/publications/Expanding.Democracy.pdf,
+Canada 2008                  ,,passive,yes,2,"automatic registration, information is gathered from existing population databases. Other methods also used across different provinces.","Election officials use information collected from other government agencies to add eligible citizens to the rolls. If more information is required, election officials mail individuals pre-printed registration forms, with postage-paid return envelopes.","Rosenberg, J. S., & Chen, M. (2009). Expanding democracy: Voter registration around the world. Brennan Centre for Justice Report, p. 5; Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), pp. 68-72",https://www.brennancenter.org/sites/default/files/legacy/publications/Expanding.Democracy.pdf,
+Canada 2011                  ,,passive,yes,2,"automatic registration, information is gathered from existing population databases. Other methods also used across different provinces.","Election officials use information collected from other government agencies to add eligible citizens to the rolls. If more information is required, election officials mail individuals pre-printed registration forms, with postage-paid return envelopes.","Rosenberg, J. S., & Chen, M. (2009). Expanding democracy: Voter registration around the world. Brennan Centre for Justice Report, p. 5; Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), pp. 68-72",https://www.brennancenter.org/sites/default/files/legacy/publications/Expanding.Democracy.pdf,
+Canada 2015,,passive,yes,2,"automatic registration, information is gathered from existing population databases. Other methods also used across different provinces.","The Permanent National Register of Electors, which is continuously maintained by Elections Canada, had 25,638,379 registrants for these elections, from a total population of 35,851,774. The register is updated regularly using federal, provincial and territorial data sources. The data received is confirmed and verified by Elections Canada and then each person is asked for his/her permission to be included on the voter list. Voters are given maximum opportunities to register and update their data at any time, including online, by mail, in person at RO offices and on election day. To register on election day, voters must confirm their identity and residency.'","CANADA PARLIAMENTARY ELECTIONS 19 October 2015, OSCE/ODIHR Election Assessment Mission Final Report, p.7; see also 2005 OSCE Report for overview of registration process since 1997 (p.7)",https://www.osce.org/files/f/documents/3/d/220661.pdf; https://www.osce.org/files/f/documents/c/2/18817.pdf,
+Chile 2005        ,,active,no,0,"citizens needed to actively register pre 2012: voter registration was voluntary and voting was compulsory from post-Pinochet period until 2012, when registration was then made automatic and voting made voluntary","(Economist) AUGUSTO PINOCHET was never fond of democracy. In 1990, at the end of his 17-year dictatorship, he engineered a stifling electoral system. It made voter-registration voluntary, but voting mandatory for those on the rolls, so that anyone who chose to sign up could be fined for not voting. Many Chileans duly failed to register, and turnout fell. Whereas 30% of the population voted for the winner of the 1989 presidential election, just 21% plumped for the victorious Sebastián Piñera in 2010.;
+(Corvalan & Cox) The registration rule played a major role, too. As intended by its designers, Chilean registration procedure imposes high costs on the voting process (Navia 2004; Valenzuela 2004). According to the rule, citizens can register to vote in registration offices during the first seven working days of every month. There are relatively few registration offices, and most of the time they are not located next to other bureaucratic offices, such as municipal offices or local courts, that the public typically visits. Furthermore, the process must be repeated every time a person wishes to vote in a different electoral district. In nonelection years, registration offices are open up to 63 working days (Navia 2004). ","Economist, (2012), 'Chile's electoral system: Bye-bye binomial? One change to the voting system strengthens demands for another'; Corvalan, Alejandro & Cox, Paulo. (2013). Class-Biased Electoral Participation: The Youth Vote in Chile. Latin American Politics and Society. 55., p.50",https://www.economist.com/americas-view/2012/02/22/bye-bye-binomial; https://www.researchgate.net/publication/264572565_Class-Biased_Electoral_Participation_The_Youth_Vote_in_Chile,
+Chile 2009                   ,,active,no,0,"citizens needed to actively register pre 2012: voter registration was voluntary and voting was compulsory from post-Pinochet period until 2012, when registration was then made automatic and voting made voluntary","(Economist) AUGUSTO PINOCHET was never fond of democracy. In 1990, at the end of his 17-year dictatorship, he engineered a stifling electoral system. It made voter-registration voluntary, but voting mandatory for those on the rolls, so that anyone who chose to sign up could be fined for not voting. Many Chileans duly failed to register, and turnout fell. Whereas 30% of the population voted for the winner of the 1989 presidential election, just 21% plumped for the victorious Sebastián Piñera in 2010.;
+(Corvalan & Cox) The registration rule played a major role, too. As intended by its designers, Chilean registration procedure imposes high costs on the voting process (Navia 2004; Valenzuela 2004). According to the rule, citizens can register to vote in registration offices during the first seven working days of every month. There are relatively few registration offices, and most of the time they are not located next to other bureaucratic offices, such as municipal offices or local courts, that the public typically visits. Furthermore, the process must be repeated every time a person wishes to vote in a different electoral district. In nonelection years, registration offices are open up to 63 working days (Navia 2004). ","Economist, (2012), 'Chile's electoral system: Bye-bye binomial? One change to the voting system strengthens demands for another'; Corvalan, Alejandro & Cox, Paulo. (2013). Class-Biased Electoral Participation: The Youth Vote in Chile. Latin American Politics and Society. 55., p.50",https://www.economist.com/americas-view/2012/02/22/bye-bye-binomial; https://www.researchgate.net/publication/264572565_Class-Biased_Electoral_Participation_The_Youth_Vote_in_Chile,
+Croatia 2007                  ,,passive,yes,2,"passive system, citizens are registered automatically","Croatia maintains a passive system of voter registration, which is carried out as a continuous process. ","REPUBLIC OF CROATIA - PARLIAMENTARY ELECTIONS - 25 November 2007, OSCE/ODIHR Limited Election Observation Mission Report
+",https://www.osce.org/odihr/elections/croatia/31736?download=true,
+Czech Republic 2002           ,,passive,yes,2,"registers are maintained at the municipal level, registers intermittantly updated by municipalities based on the Ministry of Information's central register of citizens","Registration of voters is administered by municipal offices through a permanent citizen
+registry and is updated constantly. Separate lists are compiled for buildings or blocks where
+people reside. Complaints against exclusion from the registry can be submitted to the
+municipal office, which should reply within 48 hours. In case of refusal, complaints may be
+submitted to the District Court. Voters could also register on election days directly at the
+polling stations upon submission of required identity documents. If a registered voter is
+unable to vote in the assigned constituency, he or she may apply for a voter pass which will
+enable him or her to vote at any polling station. ",CZECH REPUBLIC - PARLIAMENTARY ELECTIONS - 14-15 JUNE 2002 FINAL REPORT,https://www.osce.org/odihr/elections/czech-republic/16109?download=true,
+Czech Republic 2006           ,,passive,yes,2,"registers are maintained at the municipal level, registers intermittantly updated by municipalities based on the Ministry of Information's central register of citizens",no apparent change between 2002 and 2010 reports,CZECH REPUBLIC - PARLIAMENTARY ELECTIONS - 14-15 JUNE 2002 FINAL REPORT; CZECH REPUBLIC - PARLIAMENTARY ELECTIONS  28-29 MAY 2010 - OSCE/ODIHR NEEDS ASSESSMENT MISSION REPORT,https://www.osce.org/odihr/elections/czech-republic/16109?download=true; https://www.osce.org/odihr/elections/67702?download=true,
+Czech Republic 2010          ,,passive,yes,2,"registers are maintained at the municipal level, registers intermittantly updated by municipalities based on the Ministry of Information's central register of citizens",municipal offices are responsible for voter registration.,CZECH REPUBLIC - PARLIAMENTARY ELECTIONS  28-29 MAY 2010 - OSCE/ODIHR NEEDS ASSESSMENT MISSION REPORT,https://www.osce.org/odihr/elections/67702?download=true,
+Czech Republic 2013          ,,passive,yes,2,"registers are maintained at the municipal level, registers intermittantly updated by municipalities based on the Ministry of Information's central register of citizens","the voter lists are administered by municipal authorities.
+Permanent and special voter lists are created, and a voter can be registered in only one list. Permanent
+lists are based on the MoI’s central register of citizens, which is continuously updated, both by the
+MoI and by the municipalities. No legal provision, however, regulates the frequency and the manner
+in which these updates should be made or how and when voter lists should be produced. As such,
+different practices were used by different municipalities in updating their voter lists.",THE CZECH REPUBLIC - PRESIDENTIAL ELECTION - 11-12 January 2013 - OSCE/ODIHR Election Assessment Mission Final Report,https://www.osce.org/odihr/elections/101126?download=true,
+Denmark 2001                  ,,passive,yes,2,"registration is state initiated, voter list is created from existing national population register",(Massicotte et al. 2004) Registration listed as state-initiated in Denmark in table 3.1,"Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), pp. 68-72 (Table 3.1)",,
+Denmark 2007                  ,,passive,yes,2,"registration is state initiated, voter list is created from existing national population register","(Massicotte et al. 2004) Registration listed as state-initiated in Denmark in table 3.1;
+(OSCE) The voter register is extracted from the national civil registration system (CPR) by staff of the MoIH once the elections are announced. . . Based on the voter register, the local council prepares polling cards that contain the name and address of the voter, as well as the information of the day and time of voting and the address of the polling station. After polling cards are sent to voters, complaints can be addressed to local councils. ","DENMARK - GENERAL ELECTIONS - 15 September 2011, ODIHR NEEDS ASSESSMENT MISSION REPORT; Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), pp. 68-72",https://www.osce.org/odihr/82639?download=true,
+Estonia 2011                  ,,passive,yes,2,voter list created using existing population database,"(Estonia Population Registry) Information in the population register shall be updated continuously by registering events happening to a person or issuing documents in state or local government agencies. The principal agents submitting such information are local government agencies, foreign missions of the Republic of Estonia, courts, the Police and Border Guard Board and other state agencies. Information shall be entered in the population register using special software on the immediate registration of the event (birth, death, marriage, divorce, residence etc.) or on issuing the relevant document (identity document, passport, residence permit etc.);
+(OSCE) The Population Registration Bureau prepares the voter lists and sends notification cards to each citizen registered in the voter list 30 days before election day. Requests for correction of personal data. For example, upon the registration of the birth of a child, an entry of a new born person shall appear in the population register with information about his or her given name, surname, sex, personal identification code, date and place of birth, parents’ right of custody, residence and, in certain cases, citizenship.
+","Estonia Population Registry;  ESTONIA - PARLIAMENTARY ELECTIONS - 6 March 2011 
+",https://www.siseministeerium.ee/en/population-register; https://www.osce.org/odihr/77557?download=true,
+Finland 2003                  ,,passive,yes,2,"passive, automatic system. Registers are drawn from exisitng population databases","For each election, Digital and Population Data Services Agency establishes a register of eligible voters (a voting register) based on the Population Information System. In this context, it also posts the notification of eligibility (notification card) to each eligible voter. (DVV Elections Website)","Finland Population Information System;  Population Register Centre 
+",https://dvv.fi/en/elections; https://dvv.fi/en/population-information-system,
+Finland 2007                 ,,passive,yes,2,"passive, automatic system. Registers are drawn from exisitng population databases","Registered eligible voters are automatically included in the voter register, which is extracted by the PRC for every election and made available for public inspection for over a month before the election at local PRC offices.
+##
+Voter registers are drawn from the national Population Information System
+","REPUBLIC OF FINLAND - PARLIAMENTARY ELECTIONS - 18 March 2007, OSCE/ODIHR NEEDS ASSESSMENT MISSION REPORT
+",https://www.osce.org/odihr/elections/finland/24126?download=true,
+Finland 2011                  ,,passive,yes,2,"passive, automatic system. Registers are drawn from exisitng population databases","Registration and any subsequent updates to the POIS are passive; thus, eligible voters are included in voter lists automatically.","REPUBLIC OF FINLAND - PARLIAMENTARY ELECTIONS - 17 April 2011, OSCE/ODIHR Election Assessment Mission Report 
+",https://www.osce.org/odihr/81121?download=true,
+Finland 2015,,passive,yes,2,"passive system, register created from existing government data","Voter registration is passive and voter information is extracted prior to each election from the PIS, maintained by the Population Register Centre (PRC).' p.6","REPUBLIC OF FINLAND PARLIAMENTARY ELECTIONS 19 April 2015, OSCE/ODIHR NEEDS ASSESSMENT MISSION REPORT
+",https://www.osce.org/odihr/143121?download=true,
+France 2002                  ,,active,no,0,"active system, citizens must apply to be on voter register","The deadline for citizens to present their applications for registration to vote for the presidential elections
+expired on 31 December 2001. With some exceptions established by law, citizens who did
+not present their applications to be included in the voter registers by the deadline were not
+able to cast votes for the presidential elections. 
+
+Any registration request presented after 31
+December 2001 will be processed during the next annual revision period and it will allow the
+interested citizen to vote in 2003. The date for publication of the final voter lists was 1 March
+2002. The deadlines for voter registration appear to be rigid: the legislation could be
+more flexible and allow for a registration period closer to the election date
+
+Article L11 of the Electoral Code establishes that all voters who have their residence in a
+municipality where they have been residing for at least six months are included in the voter
+list of that municipality, if they present an application to the appropriate authorities. 
+","REPUBLIC OF FRANCE - PRESIDENTIAL ELECTIONS - 21 April and 5 May 2002 REPORT OF OSCE/ODIHR ASSESSMENT; Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), pp. 68-72",https://www.osce.org/odihr/elections/france/16167?download=true,
+France 2007                ,,passive,yes,1,"In transition from active to fully passive system, new laws still applied somewhat inconsistently","Voter registration in France is currently in a state of transition from an active to a passive system. Although previously it was at the discretion of every citizen to decide whether or not to register to vote, since the passing of new legislation in 2006, all citizens with voting rights are now obligated to register to vote, although there are no sanctions in cases of non-compliance.
+
+There is no unified voter register at the state level. Voter registers are compiled at the local level and updated annually. Voter registration is now done automatically for most French citizens when they turn 18. 10 Voters who change their residence, and persons who have not been automatically registered to vote, must actively register with the relevant mairie. One issue raised with the OSCE/ODIHR EAM is that the new provisions are not always applied equally; some mairies, for instance, understand that 18 year-olds must still apply with them to register.",FRANCE - PRESIDENTIAL ELECTION - 22 April and 6 May 2007 OSCE/ODIHR Election Assessment Mission Report,https://www.osce.org/odihr/elections/france/27768?download=true,
+France 2012                   ,,passive,yes,1,"has moved from active to passive system -  Those who turn 18 are automatically registered, still somewhat incomplete as everyone not registered above this age must manually register, while citizens must also re-register as soon as they change address","Voter lists are based on a passive system of voter registration. There is no centralized voter
+register and eligible voters are entered into voter registers at the level of the commune on the
+basis of their residence registration. 
+##
+In France, it is the responsibility of citizens to register
+and reregister each time they move.4 To register,
+one must file an application, submitting a form, an ID,
+and proof of address such as a recent utility bill. Most
+people register in person at the town hall, although
+the application can be brought to the town hall by a
+third party, mailed in, or in some cities, completed online.
+
+There is only one exception to this rule: since 1997, teenagers who
+turn 18 are, in principle, automatically registered. However, as any
+other citizen, they need to reregister when they move away from the
+address where they lived at 18.","FRANCE - PRESIDENTIAL ELECTION - 22 April and 6 May 2012 - OSCE/ODIHR NEEDS ASSESSMENT MISSION REPORT; Braconnier, C., Dormagen, J. Y., & Pons, V. (2017). Voter registration costs and disenfranchisement: Experimental evidence from France. American Political Science Review, 111(3), 584–604",https://www.osce.org/odihr/elections/89000?download=true,
+Germany 2002                 ,,passive,yes,2,automatic system for voter registration in place,,"Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), pp. 68-72",,
+Germany 2005                  ,,passive,yes,2,automatic system for voter registration in place,,,,
+Germany 2009                 ,,passive,yes,2,automatic system for voter registration in place,"Some 62.2 million German citizens were entitled to vote in the 2009 elections. All eligible
+voters whose residence is registered in the municipal civil registry are automatically included
+in the voter register managed by the municipal authorities.","FEDERAL REPUBLIC OF GERMANY - ELECTIONS TO THE FEDERAL - PARLIAMENT (BUNDESTAG) - 27 September 2009 OSCE/ODIHR Election Assessment Mission Report; Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), pp. 68-72",https://www.osce.org/odihr/elections/germany/40879?download=true,
+Germany 2013                 ,,passive,yes,2,automatic system for voter registration in place,,,,
+Great Britain 2005            ,,mixed,no,1,"not a fully automatic process but there is a state initiated mailing list targeted at registering voters, and annual canvasses","Voter registers are compiled by local government officials. The law requires that each
+household should be contacted during an annual canvas conducted between September and
+November. The annual publication date of the voter registers is 1 December. 
+##
+The government seeks out every eligible voter through an annual nationwide “canvass,” during which local officials mail or hand-deliver a form used for voter registration to each household.
+##
+'In Great Britain, voter registration is primarily carried out in the form of an annual
+canvass, also referred to as the 'household system’. EROs send an electoral registration
+form to each address within the area and it is mandatory for the head of a household to
+return the form listing all eligible voters living in the household and their citizenship.
+The law requires EROs to take all steps to maintain the lists, including sending forms
+more than once, making house-to-house enquiry or checking submitted information
+against other locally held records.35 However, the legislation does not explicitly oblige
+EROs to verify the information they receive. Citizens are obliged to submit their
+household forms each year, although EROs may carry forward the entry of nonresponders for another year. Following the conclusion of the canvass, EROs are obliged
+to publish updated versions of voters’ lists by 1 December of the canvass year. ' p.10","UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND GENERAL ELECTION - 5 May 2005
+OSCE/ODIHR Assessment Mission Report 
+https://www.osce.org/odihr/elections/uk/16204?download=true
+##
+Rosenberg, J. S., & Chen, M. (2009). Expanding democracy: Voter registration around the world. Brennan Centre for Justice Report, p. 5
+##
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND GENERAL ELECTION 6 May 2010
+OSCE/ODIHR Election Assessment Mission Report 
+https://www.osce.org/odihr/elections/69072?download=true",,
+Great Britain 2015,,mixed,no,1,"moving towards more active system of individual rather than household registration, but partially completed by this point, and still accompanied by widespread outreach
+campaigns and carry-over from previous register","The voter registration system is active and continuous with changes possible up to 12 working days
+prior to election day. EROs (in Northern Ireland, the Election Office for Northern Ireland) are
+responsible for the compilation of voter lists. The ERAA established IER to replace the previous household-based (collective) registration. The transition to IER commenced in England, Wales, and
+Scotland in 2014 and is ongoing. The law sets the IER transition deadline for 31 December 2016,
+with the option of bringing it forward to the end of December 2015.11 Northern Ireland adopted the
+IER system in 2002 and phased out household registration by 2006.12
+The IER system required individuals to confirm their inclusion in voter lists through a multi-step
+verification process. Individuals must provide their residence address, date of birth, and national
+insurance number, which are matched against information in the Department of Works and
+Pensions (DWP) database.' p. 4-5
+##
+'Voter lists are managed locally and there is no central voter registry.14 Electoral Registration Officers
+(EROs) are appointed by local authorities and are responsible for compiling and maintaining voter lists
+in their respective constituencies. The 2013 Electoral Registration and Administration Act introduced
+individual electoral registration to replace the system of household registration as a means to increase
+accuracy and integrity in voter lists. In most of the UK, migration to individual registration commenced
+in 2014 and was completed by the end of 2015.15 This change to the voter registration procedures has
+been a focus of the OSCE/ODIHR EET deployed for the 2015 general election. The large majority of
+voters were automatically transferred to the new system through a multi-step process of matching voter
+information, primarily through the database of the Department of Works and Pensions. The EC
+reported that some 770,000 entries were removed after verification. Individuals not automatically
+transferred to the new system were required to reapply for inclusion in a voter list. Various outreach
+campaigns and the annual canvass by EROs served to target voters who were not automatically
+transferred to the new system as well as newly eligible voters.' p.10","UNITED KINGDOM OF GREAT BRITAIN
+AND NORTHERN IRELAND GENERAL ELECTION 7 May 2015
+OSCE/ODIHR Election Expert Team Final Report 
+https://www.osce.org/odihr/elections/uk/174081?download=true
+##
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND EARLY GENERAL ELECTION 8 JUNE 2017
+OSCE/ODIHR NEEDS ASSESSMENT MISSION REPORT 25-28 April 2017
+https://www.osce.org/odihr/elections/uk/317306?download=true",,
+Greece 2009                   ,,passive,yes,2,"passive system, citizens are registered automatically","Municipalities are tasked with regularly updating municipal registers, which provide a base
+for the formation of voter lists. Furthermore, municipal authorities determine locations for
+campaign posters and other campaign materials, in consultation with political parties. 
+
+A national population register is maintained by the MoI on a basis of semimonthly updates
+from municipalities. On the eve of the parliamentary elections, the MoI announced that there
+were 9,834,970 registered voters, of which 5,076,726 are women and 4,758,244 men","GREECE - EARLY PARLIAMENTARY ELECTIONS - 4 October 2009
+OSCE/ODIHR Election Assessment Mission Report 
+https://www.osce.org/odihr/elections/greece/41001?download=true",,
+Greece 2012                   ,,passive,yes,2,"passive system, citizens are registered automatically","Greece has a passive voter registration system. The MoI is primarily responsible for the
+compilation, certification and printing of voter lists based on the population register. The MoI also
+co-ordinates with local civil registries, which provide civil status updates on citizens and eliminate
+duplicate entries. The update of voter lists is regular and is open for public scrutiny. ","GREECE - EARLY PARLIAMENTARY ELECTIONS - 6 May 2012
+OSCE/ODIHR ELECTION ASSESSMENT MISSION REPORT 
+https://www.osce.org/odihr/elections/92460?download=true",,
+Greece 2015,,passive,yes,2,"passive, data taken from national population registry ","Voter registration is passive. Voter lists are compiled by the MoI based on the national population
+register, which receives twice-monthly updates from municipalities.' p.7
+
+'Greece has a passive voter registration system. The MoI is primarily responsible for the
+compilation, certification and printing of voter lists based on the population register. The MoI also
+co-ordinates with local civil registries, which provide civil status updates on citizens and eliminate
+duplicate entries. The update of voter lists is regular and is open for public scrutiny.' p.10","GREECE  PARLIAMENTARY ELECTIONS October 2019
+ODIHR NEEDS ASSESSMENT MISSION REPORT 10-12 April 2019 
+https://www.osce.org/odihr/elections/greece/420839?download=true
+
+GREECE EARLY PARLIAMENTARY ELECTIONS 6 May 2012
+OSCE/ODIHR ELECTION ASSESSMENT MISSION REPORT 
+https://www.osce.org/odihr/elections/92460?download=true",,
+Hong Kong 2004               ,,active,no,0,citizen initiated ,"If you are a Hong Kong permanent resident aged 18 or above, and ordinarily reside in Hong Kong, you are eligible to sign up as a geographical constituency elector. 
+
+Only after you have registered as an elector can you exercise your right to vote in the Legislative Council and District Council elections. It is your right to elect your representative to sit on these bodies. If you are eligible to vote in the Election Committee subsector elections, you also need to register as a voter before you can vote at the elections. ","Hong Kong Government Website - Voter Registration FAQ
+https://www.voterregistration.gov.hk/eng/faq.html",,
+Hong Kong 2008               ,,active,no,0,citizen initiated ,"If you are a Hong Kong permanent resident aged 18 or above, and ordinarily reside in Hong Kong, you are eligible to sign up as a geographical constituency elector. 
+
+Only after you have registered as an elector can you exercise your right to vote in the Legislative Council and District Council elections. It is your right to elect your representative to sit on these bodies. If you are eligible to vote in the Election Committee subsector elections, you also need to register as a voter before you can vote at the elections. ","Hong Kong Government Website - Voter Registration FAQ
+https://www.voterregistration.gov.hk/eng/faq.html",,
+Hong Kong 2012,,active,no,0,citizen initiated ,"If you are a Hong Kong permanent resident aged 18 or above, and ordinarily reside in Hong Kong, you are eligible to sign up as a geographical constituency elector. 
+
+Only after you have registered as an elector can you exercise your right to vote in the Legislative Council and District Council elections. It is your right to elect your representative to sit on these bodies. If you are eligible to vote in the Election Committee subsector elections, you also need to register as a voter before you can vote at the elections. ","Hong Kong Government Website - Voter Registration FAQ
+https://www.voterregistration.gov.hk/eng/faq.html",,
+Hungary 2002                  ,,passive,yes,2,voter list created using existing population database,"Article 12 of Act 100 (1997) states that: Leaders of local electoral offices shall
+compose a register of the voters with a right to vote for each polling station after the
+calling of the election based on data of records on personal data and addresses and
+records on major citizens without a right to vote and continuously record changes
+therein.
+","REPUBLIC OF HUNGARY - PARLIAMENTARY ELECTIONS - 10 AND 24 MAY 1998
+https://www.osce.org/odihr/elections/hungary/16212?download=true
+##
+Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), pp. 68-72",,
+Iceland 2003                  ,,passive,yes,2,"passive system, voter list created using existing population database","CHAPTER VI
+Electoral registers
+Article 22 When general parliamentary elections have been announced, municipal authorities shall prepare electoral registers according to a voters database list  provided by [The National Registry]1).
+1)1)Act No. 50/2006, Article 20.","Parliamentary Elections to the Althing, Act No. 24/2000
+https://www.government.is/publications/legislation/lex/?newsid=027e6a1a-f46b-11e7-9423-005056bc530c",,
+Iceland 2007                  ,,passive,yes,2,"passive system, voter list created using existing population database",,,,
+Iceland 2009                 ,,passive,yes,2,"passive system, voter list created using existing population database","Iceland has a passive voter registration system. The National Registry keeps a central database of registered voters, including those who reside abroad.","ICELAND - EARLY PARLIAMENTARY ELECTIONS - 25 April 2009
+https://www.osce.org/odihr/elections/iceland/38309?download=true
+",,
+Iceland 2013                 ,,passive,yes,2,"passive system, voter list created using existing population database","Iceland has a passive voter registration system. The NRO maintains a central database of registered
+voters based on the population register, which includes those who have resided abroad for eight
+years or less.","ICELAND - PARLIAMENTARY ELECTIONS - 27 April 2013
+OSCE/ODIHR Election Assessment Mission Final Report
+https://www.osce.org/odihr/elections/iceland/103053?download=true",,
+Ireland 2002                 ,,passive,yes,2,"state inititaed, door-to-dor canvassing at local level",,"Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), pp. 68-72",,
+Ireland 2007                 ,,passive,yes,2,"state inititaed, door-to-dor canvassing at local level","The legal basis to compile the Register of Electors is found in the Electoral Act of 1992,
+as amended. Each year the local registration authority, who is appointed by a town or
+county council, is required to conduct an intensive door to door canvass of each
+neighbourhood to develop the voter register.
+","IRELAND - PARLIAMENTARY ELECTIONS - 24 May 2007
+OSCE/ODIHR Election Assessment Mission Report
+https://www.osce.org/odihr/elections/ireland/26627?download=true",,
+Ireland 2011                  ,,passive,yes,2,"state inititaed, door-to-dor canvassing at local level","In 2010, the local registration authorities updated the registers through a door-to-door
+canvass. Registers are also available online and in local offices for review. ","IRELAND - EARLY PARLIAMENTARY ELECTIONS - 25 February 2011
+OSCE/ODIHR NEEDS ASSESSMENT MISSION REPORT
+https://www.osce.org/odihr/elections/75725?download=true",,
+Israel 2003                  ,,passive,yes,2,automatic registration in place,"Voting is a right granted to every Israeli citizen who has reached the age of 18 or older on election day. 
+Israelis of all ethnic groups and religious beliefs, including Arab-Israelis, actively participate in the process.
+Every eligible Israeli citizen is automatically registered. A total of 5,881,696 Israelis are eligible to vote in the March 17 elections.","Israel Ministry of Foreign Affairs - Elections in Israel
+http://mfa.gov.il/MFA/AboutIsrael/State/Democracy/Pages/FAQ_Elections_Israel.aspx
+##
+Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), p. 69",,
+Israel 2006                   ,,passive,yes,2,automatic registration in place,"Voting is a right granted to every Israeli citizen who has reached the age of 18 or older on election day. 
+Israelis of all ethnic groups and religious beliefs, including Arab-Israelis, actively participate in the process.
+Every eligible Israeli citizen is automatically registered. A total of 5,881,696 Israelis are eligible to vote in the March 17 elections.","Israel Ministry of Foreign Affairs - Elections in Israel
+http://mfa.gov.il/MFA/AboutIsrael/State/Democracy/Pages/FAQ_Elections_Israel.aspx
+##
+Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), p. 69",,
+Israel 2013                  ,,passive,yes,2,automatic registration in place,"Voting is a right granted to every Israeli citizen who has reached the age of 18 or older on election day. 
+Israelis of all ethnic groups and religious beliefs, including Arab-Israelis, actively participate in the process.
+Every eligible Israeli citizen is automatically registered. A total of 5,881,696 Israelis are eligible to vote in the March 17 elections.","Israel Ministry of Foreign Affairs - Elections in Israel
+http://mfa.gov.il/MFA/AboutIsrael/State/Democracy/Pages/FAQ_Elections_Israel.aspx
+##
+Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), p. 69",,
+Italy 2006                    ,,passive,yes,2,"passive system, voters automatically registered","Voter lists are maintained by the Municipal Electoral Offices, a part of the municipal
+administration that takes substantive direction from the Ministry of Interior, through the
+prefecture. Italy has a system of government-initiated (or ?passive?) voter registration, under
+which electors? names are automatically entered onto the voter lists based on the civil register.
+Separate lists are prepared for men and women, an apparent legacy of the late 1940?s when
+women won the right to vote.","ITALY - PARLIAMENTARY ELECTIONS - 9 - 10 April 2006
+OSCE/ODIHR Election Assessment Mission Report 
+https://www.osce.org/odihr/elections/italy/19405?download=true",,
+Japan 2004                ,,passive,yes,2,voters automatically registered - information is taken from family registry data that households must update continuously,"By law Japanese households are required to report births, deaths, adoptions, marriages, and divorces to their local municipality. This information is dutifully recorded in the family registry. When a member of the household reaches voting age they are automatically added to the voter registration lists. There is no registering to vote, and there are no penalties for not voting. 
+","https://www.quora.com/How-does-voting-work-in-Japan
+##
+Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), p. 70",,
+Japan 2007                   ,,passive,yes,2,voters automatically registered - information is taken from family registry data that households must update continuously,"By law Japanese households are required to report births, deaths, adoptions, marriages, and divorces to their local municipality. This information is dutifully recorded in the family registry. When a member of the household reaches voting age they are automatically added to the voter registration lists. There is no registering to vote, and there are no penalties for not voting. 
+","https://www.quora.com/How-does-voting-work-in-Japan
+##
+Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), p. 70",,
+Japan 2013                    ,,passive,yes,2,voters automatically registered - information is taken from family registry data that households must update continuously,"By law Japanese households are required to report births, deaths, adoptions, marriages, and divorces to their local municipality. This information is dutifully recorded in the family registry. When a member of the household reaches voting age they are automatically added to the voter registration lists. There is no registering to vote, and there are no penalties for not voting. 
+","https://www.quora.com/How-does-voting-work-in-Japan
+##
+Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), p. 70",,
+Kenya 2013,,active,no ,0,"active, must go to registration centre to apply to be on the electoral roll",,https://www.iebc.or.ke/registration/?how,,
+Kyrgyzstan 2005              ,,passive,yes,2,responsibility of local authorities to compile voter lists - moved to a new electronic system in the years following,"n. To be eligible for entry on the voter list a person
+must have registered permanent residence (“propiska”) at an address located in a given
+precinct. While the transfer of information from the propiska system to voter lists is well
+defined, other procedures remain largely unregulated. These include data submission by local
+authorities, the use of temporary propiska, accounting for registrants who moved without
+changing their propiska, corrections after printing of the official voter lists, amending the
+additional voter list, supervision of out-of-country registration, and data checks in the state
+automated registry system known as GAS Shailoo.14The formation, storage and updating of the Unified State Population Register is carried out by the state body in the field of population registration (hereinafter - the authorized state body).
+##
+While the
+law tasks local administrations (akimats) with the responsibility for compiling accurate voter
+lists in a timely manner, there are no sanctions for failure to achieve this objective. However,
+in a positive step that was not explicitly required by the Election Code, the CEC undertook to
+improve the quality of the voter lists by requesting akimats to check voter list accuracy by 17
+February, for the first round, and by 10 March, for the second round.
+A number of PECs demonstrated initiative by conducting door-to-door canvassing to improve
+the quality of the voter lists. However, the majority of PECs remained passive with regard to
+complaints related to the accuracy of the lists. In some cases PECs, ignoring their duties and
+not using their rights, referred voters to the TECs or other bodies","KYRGYZ REPUBLIC - PRESIDENTIAL ELECTION - 10 July 2005
+OSCE/ODIHR Election Observation Mission - Final Report 
+https://www.osce.org/odihr/elections/17661?download=true
+##
+THE KYRGYZ REPUBLIC - PARLIAMENTARY ELECTIONS - 27 February and 13 March 2005
+OSCE/ODIHR Election Observation Mission Final Report
+https://www.osce.org/odihr/elections/kyrgyzstan/14835?download=true",,
+Latvia 2010                  ,,no register,NA,2,no voter register,"Voters lists are not used for Saeima elections and votes may be cast at any polling station in the
+country upon presentation of a valid Latvian citizen?s passport. Once the voter has voted, his/her
+passport is stamped as a safeguard against possible multiple voting. 
+##
+The right to vote is granted to all citizens who are 18 years of age or older on election day. There is
+no voter registration in Latvia. Voters may cast a vote at any polling station in the country or
+abroad, independent of their residence upon the presentation of a valid passport. After voting, a
+voter?s passport is stamped as a safeguard against possible multiple voting and his or her name is
+added to a list of voters drawn up in the polling station on election day. ","LATVIA - PARLIAMENTARY ELECTIONS - 2 October 2010
+OSCE/ODIHR Limited Election Observation Mission Final Report 
+https://www.osce.org/odihr/elections/latvia/74785?download=true
+
+REPUBLIC OF LATVIA - PARLIAMENTARY ELECTIONS - 4 October 2014
+OSCE/ODIHR Election Assessment Mission
+Final Report
+https://www.osce.org/odihr/elections/latvia/132416?download=true",,
+Latvia 2011,,no register,NA,2,"No voter register, citizens only need to bring their passports to the polling station in order to vote","VOTER REGISTRATION
+As in previous parliamentary elections, there were no pre-prepared voter lists in polling stations.
+Voters’ names were added to lists of voters drawn up in all polling stations on election day and
+voters’ passports were stamped as a measure against multiple voting. For these elections, there were
+1,542,700 eligible voters. Accepting only passports as a means of identification could have
+potentially disenfranchised up to 2.6 per cent of electors who did not have a valid passport on
+election day.11
+Voters could cast their ballot in any polling station in the country, and not only in the constituencies
+where they reside. Although very convenient for voters, such a solution could present significant
+challenges to election administration. If considerable numbers of voters choose to vote in particular
+PS, these may lead to overcrowding of the PS and deficit of ballot papers.' p.6"," THE REPUBLIC OF LATVIA EARLY PARLIAMENTARY ELECTIONS 17 SEPTEMBER 2011
+OSCE/ODIHR Limited Election Observation Mission Final Report https://www.osce.org/odihr/elections/Latvia/86363?download=true",,
+Latvia 2014,,no register,NA,2,"No voter register, citizens only need to bring their passports to the polling station in order to vote","The right to vote is granted to all citizens who are 18 years of age or older on election day. There is
+no voter registration in Latvia. Voters may cast a vote at any polling station in the country or
+abroad, independent of their residence upon the presentation of a valid passport. After voting, a
+voter’s passport is stamped as a safeguard against possible multiple voting and his or her name is
+added to a list of voters drawn up in the polling station on election day. ' p.5","REPUBLIC OF LATVIA PARLIAMENTARY ELECTIONS 4 October 2014
+OSCE/ODIHR Election Assessment Mission Final Report https://www.osce.org/odihr/elections/latvia/132416?download=true",,
+Mexico 2003                   ,,active,no,0,"active registration - voters must complete registration in person in order to obtain a voter registration card that acts as an identification document.
+process implemented in 1990s in response to widespread electoral fraud and percieved corruption","The exact and timely registration, as well as the updating and permanent refinement of the diverse instruments that contain the names and personal information of all Mexican citizens that hold the right to vote, constitutes an essential requirement to guarantee the transparency and reliability of the electoral processes.
+
+In Mexico, the vote is universal, free, secret, direct, personal and not transferable. All persons with Mexican nationality, by birth or by naturalization, who are 18 years of age or older, and have an honest way of living, have the right to vote. However, in order to exercise this right, the law establishes certain additional requirements such as registration of the citizen in the Federal Registry of Voters and possession of a photo-voting card, which is issued free of charge by the Federal Electoral Institute.
+
+The electoral registry in Mexico is of an active nature, that is, it is responsibility of the citizens who fulfill the requirements, to attend, carry out and complete their registration in person before one of the field offices or modules set up for this purpose by the IFE throughout the country.","Mexican Federal Electoral Institute
+http://portalanterior.ine.mx/archivos3/portal/historico/contenido/Electoral_Registry/",,
+Mexico 2006                   ,,active,no,0,"active registration - voters must complete registration in person in order to obtain a voter registration card that acts as an identification document.
+process implemented in 1990s in response to widespread electoral fraud and percieved corruption","The exact and timely registration, as well as the updating and permanent refinement of the diverse instruments that contain the names and personal information of all Mexican citizens that hold the right to vote, constitutes an essential requirement to guarantee the transparency and reliability of the electoral processes.
+
+In Mexico, the vote is universal, free, secret, direct, personal and not transferable. All persons with Mexican nationality, by birth or by naturalization, who are 18 years of age or older, and have an honest way of living, have the right to vote. However, in order to exercise this right, the law establishes certain additional requirements such as registration of the citizen in the Federal Registry of Voters and possession of a photo-voting card, which is issued free of charge by the Federal Electoral Institute.
+
+The electoral registry in Mexico is of an active nature, that is, it is responsibility of the citizens who fulfill the requirements, to attend, carry out and complete their registration in person before one of the field offices or modules set up for this purpose by the IFE throughout the country.","Mexican Federal Electoral Institute
+http://portalanterior.ine.mx/archivos3/portal/historico/contenido/Electoral_Registry/",,
+Mexico 2009                  ,,active,no,0,"active registration - voters must complete registration in person in order to obtain a voter registration card that acts as an identification document
+process implemented in 1990s in response to widespread electoral fraud and percieved corruption",,"Mexican Federal Electoral Institute
+http://portalanterior.ine.mx/archivos3/portal/historico/contenido/Electoral_Registry/",,
+Mexico 2012                   ,,active,no,0,"active registration - voters must complete registration in person in order to obtain a voter registration card that acts as an identification document
+process implemented in 1990s in response to widespread electoral fraud and percieved corruption",,,,
+Mexico 2015                  ,,active,no,0,"active registration - voters must complete registration in person in order to obtain a voter registration card that acts as an identification document
+process implemented in 1990s in response to widespread electoral fraud and percieved corruption","The exact and timely registration, as well as the updating and permanent refinement of the diverse instruments that contain the names and personal information of all Mexican citizens that hold the right to vote, constitutes an essential requirement to guarantee the transparency and reliability of the electoral processes.
+
+In Mexico, the vote is universal, free, secret, direct, personal and not transferable. All persons with Mexican nationality, by birth or by naturalization, who are 18 years of age or older, and have an honest way of living, have the right to vote. However, in order to exercise this right, the law establishes certain additional requirements such as registration of the citizen in the Federal Registry of Voters and possession of a photo-voting card, which is issued free of charge by the Federal Electoral Institute.
+
+The electoral registry in Mexico is of an active nature, that is, it is responsibility of the citizens who fulfill the requirements, to attend, carry out and complete their registration in person before one of the field offices or modules set up for this purpose by the IFE throughout the country.","Mexican Federal Electoral Institute
+http://portalanterior.ine.mx/archivos3/portal/historico/contenido/Electoral_Registry/",,
+Montenegro 2012               ,,passive,yes,2,"passive system, voters added to the register automatically","Twenty-one separate registers (one for each of the 21 municipalities) are managed by municipal
+authorities. The voter registration process is passive in that voter data is updated automatically based
+on information provided to the municipal authorities by the MoI.","MONTENEGRO - EARLY PARLIAMENTARY ELECTIONS - 14 OCTOBER 2012
+OSCE/ODIHR Limited Election Observation Mission Final Report 
+https://www.osce.org/odihr/97940?download=true",,
+Netherlands 2002             ,,passive,yes,2,voter register created using data from ecisting population registers,,,,
+Netherlands 2006              ,,passive,yes,2,voter register created using data from ecisting population registers,"The registration of voters is based on population registers maintained at the municipal level.
+These registers are based on residence in the municipality and represent the key instrument to
+provide a number of services to residents. Registers are maintained in the form of both paper
+documentation and digital databases. The OSCE/ODIHR EAM was informed that as of 1
+January 2010, a state-wide population database became operational. According to the EC,
+there were 12,524,152 registered voters for the 9 June elections for the House.32
+The voter register is essentially an extract of the municipal population register which
+includes the records of all eligible voters in the municipality as of nomination day","THE NETHERLANDS - EARLY PARLIAMENTARY ELECTIONS - 9 June 2010
+OSCE/ODIHR Election Assessment Mission Report 
+https://www.osce.org/odihr/elections/71251?download=true
+
+Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), pp. 68-72",,
+Netherlands 2010             ,,passive,yes,2,voter register created using data from ecisting population registers,"Municipal authorities are responsible for maintaining voter registers, which are based on
+information drawn from the population register. The list of eligible voters is automatically
+extracted and constantly updated. There were 12,689,810 voters registered for these elections. ","THE NETHERLANDS - EARLY PARLIAMENTARY ELECTIONS - 12 September 2012
+OSCE/ODIHR ELECTION ASSESSMENT MISSION REPORT 
+https://www.osce.org/odihr/97291?download=true",,
+New Zealand 2002             ,,active,no,0,electors must complete a form or apply online in order to be added to the electoral register,,"New Zealand Electoral Commission
+http://www.elections.org.nz/voters/enrol-check-or-update-now/who-can-and-cant-enrol
+##
+Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), p. 70",,
+New Zealand 2008              ,,active,no,0,electors must complete a form or apply online in order to be added to the electoral register,,"New Zealand Electoral Commission
+http://www.elections.org.nz/voters/enrol-check-or-update-now/who-can-and-cant-enrol
+##
+Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), p. 70",,
+New Zealand 2011             ,,active,no,0,electors must complete a form or apply online in order to be added to the electoral register,,"New Zealand Electoral Commission
+http://www.elections.org.nz/voters/enrol-check-or-update-now/who-can-and-cant-enrol 
+##
+Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), p. 70",,
+New Zealand 2014,,active,no,0,electors must complete a form or apply online in order to be added to the electoral register,,"New Zealand Electoral Commission
+http://www.elections.org.nz/voters/enrol-check-or-update-now/who-can-and-cant-enrol 
+##
+Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), p. 70",,
+Norway 2001                   ,,passive,yes,2,passive system,,,,
+Norway 2005                   ,,passive,yes,2,passive system,,,,
+Norway 2009                  ,,passive,yes,2,passive system,"There is a continuous passive system of voter registration in Norway. The voter register
+is drawn from the civil registry, which is administered by the Population Registry
+Authority, a separate body within the Directorate of Taxes.","NORWAY - PARLIAMENTARY ELECTIONS - 14 September 2009
+OSCE/ODIHR Election Assessment Mission Report
+https://www.osce.org/odihr/elections/norway/40529?download=true",,
+Norway 2013                   ,,passive,yes,2,passive system,"A total of 3,641,994 voters were registered. Voter registration is passive and voter lists were based on the
+population registry as of 30 June, with updates made regularly until 7 September. Election stakeholders
+considered voter lists to be of high quality","NORWAY - PARLIAMENTARY ELECTIONS - 9 SEPTEMBER 2013
+OSCE/ODIHR Election Assessment Mission - Final Report
+https://www.osce.org/odihr/elections/109517?download=true",,
+Peru 2006                     ,,passive,yes,2,register created based on existing population registry,The government registers all eligible voters using information from the national population database,"Rosenberg, J. S., & Chen, M. (2009). Expanding democracy: Voter registration around the world. Brennan Centre for Justice Report, p. 5",,
+Peru 2011                    ,,passive,yes,2,register created based on existing population registry,The government registers all eligible voters using information from the national population database,"Rosenberg, J. S., & Chen, M. (2009). Expanding democracy: Voter registration around the world. Brennan Centre for Justice Report, p. 5",,
+Peru 2016,,passive,yes,2,register created based on existing population registry,The government registers all eligible voters using information from the national population database,"Rosenberg, J. S., & Chen, M. (2009). Expanding democracy: Voter registration around the world. Brennan Centre for Justice Report, p. 5",,
+Philippines 2004             ,,active,no,0,voters must actively complete a registration process in order to be included on the electoral roll,,"Philippines - The Official Gazette
+http://www.officialgazette.gov.ph/services/voters-id/
+##
+Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), p. 71",,
+Philippines 2010              ,,active,no,0,voters must actively complete a registration process in order to be included on the electoral roll,,"Philippines - The Official Gazette
+http://www.officialgazette.gov.ph/services/voters-id/
+##
+Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), p. 71",,
+Philippines 2016,,active,no,0,voters must actively complete a registration process in order to be included on the electoral roll,,https://www.comelec.gov.ph/?r=VoterRegistration/WhatisVoterRegistration/RegistrationProcedures,,
+Poland 2001                   ,,passive,yes,2,Register is drawn from existing database - Universal Electronic System for Registration of the Population,,"Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), p. 71",,
+Poland 2005                  ,,passive,yes,2,Register is drawn from existing database - Universal Electronic System for Registration of the Population,,"Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), p. 71",,
+Poland 2007                   ,,passive,yes,2,Register is drawn from existing database - Universal Electronic System for Registration of the Population,"Permanent voter registers are maintained in Poland by specialized departments
+(Administrative and Civil Affairs) of municipalities dealing also with the registration of
+births, deaths, residence, and the issuance of IDs, which provides for continuous updating of
+the voter registers","Republic of Poland  - Pre-term Parliamentary Elections -  21 October 2007
+OSCE/ODIHR Election Assessment Mission Final Report
+https://www.osce.org/odihr/elections/poland/31217?download=true
+##
+Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), pp. 71",,
+Poland 2011                  ,,passive,yes,2,Register is drawn from existing database - Universal Electronic System for Registration of the Population,"A national population register is maintained by the Ministry of Internal Affairs and
+Administration (MSWiA). For each election, the local government authorities are responsible for
+the compilation of voter registers in co-operation with the NEC. The registers are drawn from the
+Universal Electronic System for Registration of the Population (PESEL). ","REPUBLIC OF POLAND - PARLIAMENTARY ELECTIONS - 9 October 2011 - OSCE/ODIHR Election Assessment Mission Report
+https://www.osce.org/odihr/elections/87024?download=true
+##
+Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), pp. 71",,
+Portugal 2002                ,,active,no,0,active registration - citizen initated,,SEE PORTUGAL 2015,,
+Portugal 2005                 ,,active,no,0,active registration - citizen initated,,SEE PORTUGAL 2015,,
+Portugal 2009                ,,passive,yes,2,automatic registration introduced in 2008,,SEE PORTUGAL 2015,,
+Portugal 2015                 ,,passive,yes,2,automatic registration introduced in 2008,"Voter register is linked to a national population registration database. The OSCE/ODIHR NAM
+was informed that nearly all citizens have been issued national ID cards since the 2009 elections,
+which contributes to the ability of the electoral administration to avoid duplicate entries in the
+voter register. 
+##
+Based on a 2008 change (Law no. 47) to the 1999 Law on Voter Registration, youth turning
+17 years are registered automatically in the BDRE, without the need for active registration,
+which was the case in the past. ","PORTUGAL - PARLIAMENTARY ELECTIONS - 4 October 2015
+OSCE/ODIHR NEEDS ASSESSMENT MISSION REPORT
+https://www.osce.org/odihr/elections/portugal/183881?download=true
+##
+PORTUGAL - PARLIAMENTARY ELECTIONS - 27 September 2009
+OSCE/ODIHR Election Assessment Mission Report 
+https://www.osce.org/odihr/elections/41003?download=true",,
+Republic of Korea 2004       ,,passive,yes,2,"No actual register, all citizens that meet voting requirements are automatically eligible to vote.","Another factor that could explain South Korea’s relatively high voter turnout is its voter registration process, or lack thereof. South Korean citizens, except those living abroad, who are 19 or older are eligible to vote without going through a formal registration process. In addition, election day is a holiday in Korea, meaning that most voters can go to the polls without worrying about taking the day off.","Korea Economic Institute of America
+http://keia.org/why-do-koreans-vote-higher-rate-elections-americans",,
+Republic of Korea 2008        ,,passive,yes,2,"No actual register, all citizens that meet voting requirements are automatically eligible to vote.","Another factor that could explain South Korea’s relatively high voter turnout is its voter registration process, or lack thereof. South Korean citizens, except those living abroad, who are 19 or older are eligible to vote without going through a formal registration process. In addition, election day is a holiday in Korea, meaning that most voters can go to the polls without worrying about taking the day off.","Korea Economic Institute of America
+http://keia.org/why-do-koreans-vote-higher-rate-elections-americans",,
+Republic of Korea 2012       ,,passive,yes,2,"No actual register, all citizens that meet voting requirements are automatically eligible to vote.","Another factor that could explain South Korea’s relatively high voter turnout is its voter registration process, or lack thereof. South Korean citizens, except those living abroad, who are 19 or older are eligible to vote without going through a formal registration process. In addition, election day is a holiday in Korea, meaning that most voters can go to the polls without worrying about taking the day off.","Korea Economic Institute of America
+http://keia.org/why-do-koreans-vote-higher-rate-elections-americans",,
+Romania 2004                 ,,passive,yes,2,"passive system, voter list created using existing population database","The permanent voter lists are drawn up by mayors? offices, based on computerized population
+records, overall responsibility for which rests with the Ministry of Administration and the
+Interior. They are extracted, for each individual polling station, from the permanent voter
+registers that are updated annually on 1 March, and also within 15 days of an election being
+called. Voters are entitled to check whether they are registered in the permanent voter
+registers at their place of residence, and political parties and alliances are entitled to copies of
+the registers from local governments within ten days of the announcement of an election.","Romania Presidential and Parliamentary Elections, 28 November and 12 December 2004 
+OSCE/ODIHR Assessment Mission Report
+https://www.osce.org/odihr/elections/romania/41455?download=true",,
+Romania 2009                  ,,passive,yes,2,"passive system, voter list created using existing population database",,,,
+Romania 2012,,passive,yes,2,passive system basedon on existing civil registry data," 'Romania’s passive voter registration system is based on the data
+contained in the civil registry managed by the MAI with inputs from the local civil status
+offices. The final number of registered voters for these elections was 18,423,066.' p.9","ROMANIA PARLIAMENTARY ELECTIONS 9 DECEMBER 2012
+OSCE/ODIHR Election Expert Team Final Report https://www.osce.org/odihr/98757?download=true",,
+Romania 2014,,passive,yes,2,passive system basedon on existing civil registry data," 'Romania’s passive voter registration system is based on the data
+contained in the civil registry managed by the MAI with inputs from the local civil status
+offices. The final number of registered voters for these elections was 18,423,066.' p.9","ROMANIA PARLIAMENTARY ELECTIONS 9 DECEMBER 2012
+OSCE/ODIHR Election Expert Team Final Report https://www.osce.org/odihr/98757?download=true",,
+Russian Federation 2004       ,,passive,yes,2,"passive system, voters automatically registered","Compilation of voter lists is based on a passive voter registration system linked with the citizens?
+permanent and temporary residence. Citizens are included in voter list for a certain precinct if
+they are registered as residing within its territory. ","RUSSIAN FEDERATION - ELECTIONS TO THE STATE DUMA - 4 December 2011
+OSCE/ODIHR Election Observation Mission Final Report 
+https://www.osce.org/odihr/86959?download=true",,
+Serbia 2012                  ,,passive,yes,2,"passive system, voters automatically registered","Voter registration in Serbia is conducted under a ?passive? system. Voter lists are
+compiled from data contained in the municipal civil status offices. 
+##
+After the entry into force of the LSER in December 2011, the Ministry of Human
+and Minority Rights, Public Administration and Local Self-Government started compiling a
+unified electronic voter register on the basis of the previous multiple voter lists that had been
+maintained by municipalities. For the first time, a single unified voter register (UVR) based on a
+system of permanent registration was used during these elections. ","REPUBLIC OF SERBIA - EARLY PARLIAMENTARY ELECTIONS - 11 May 2008
+OSCE/ODIHR Limited Election Observation Mission Final Report 
+https://www.osce.org/odihr/elections/serbia/33212?download=true
+
+REPUBLIC OF SERBIA - PARLIAMENTARY AND EARLY PRESIDENTIAL - ELECTIONS 6 and 20 May 2012
+OSCE/ODIHR Limited Election Observation Mission Final Report 
+https://www.osce.org/odihr/elections/92509?download=true",,
+Slovakia 2010                ,,passive,yes,2,"passive system, voters automatically registered","Slovakia has a passive voter registration system which is decentralized. A person with permanent residence is eligible to vote and is registered in a permanent voter register. Each municipal office is in charge of maintaining the permanent voter register. The permanent register is continuously updated based on notifications from state bodies, other municipalities and valid complaints.","SLOVAK REPUBLIC - PARLIAMENTARY ELECTIONS - 12 June 2010
+OSCE/ODIHR Election Assessment Mission Report 
+https://www.osce.org/odihr/71246?download=true",,
+Slovakia 2016,,passive,yes,2,"passive system, voters automatically registered","Voter registration is decentralized and maintenance of the voter lists is under the responsibility of
+the municipal authorities. Voters are included in the voter lists based on their permanent address.
+'The voter lists are updated continuously and are based on the municipalities’ own records and
+information provided by the state institutions. Municipalities may use and update the information
+contained in the population register that is maintained by the MoI.
+According to the elections act, voters can be added to the voter list in the precinct of their residence
+by the PEC on election day if they present an identity card and proof of residence.8 Voters without
+permanent residence may request to be entered in the special register maintained by the MoI.9
+Voters can verify their data at any time during working hours and, if necessary, request corrections
+of the voter lists until the last day before election day.10 There is a high level of confidence among
+election stakeholders in the accuracy and inclusiveness of the voter lists.' p.9","SLOVAK REPUBLIC PARLIAMENTARY ELECTIONS 5 March 2016
+OSCE/ODIHR Election Assessment Mission Final Report https://www.osce.org/odihr/elections/slovakia/235591?download=true",,
+Slovenia 2004                ,,passive,yes,2,"passive system, voters automatically registered",,,,
+Slovenia 2008                 ,,passive,yes,2,"passive system, voters automatically registered",,,,
+Slovenia 2011                 ,,passive,yes,2,"passive system, voters automatically registered",Slovenia has a passive system of voter registration in which the state maintains the voter registers based on permanent residence.,"REPUBLIC OF SLOVENIA - EARLY ELECTIONS OF THE NATIONAL ASSEMBLY - 4 DECEMBER 2011
+OSCE/ODIHR Election Assessment Mission Final Report 
+https://www.osce.org/odihr/elections/87786?download=true",,
+South Africa 2009            ,,mixed,no,1,citizen initiated system - but state employs significant outreach efforts near elections to make registration more accessible,"South Africa - Each voter must register in-person at a local election office or voting station. To facilitate registration, the government hires thousands of temporary workers to register voters out of temporary stations that will be used as polling places. (p.5)
+
+Although South Africa requires voters to register in-person at their local voting station or election office, because South Africa’s central election authority employs tens of thousands of temporary workers every election cycle to open registration offices, conduct comprehensive government-sponsored registration drives, and otherwise facilitate registration, we do not consider it to have a self-initiated system akin to that of the Bahamas, Belize, Burundi, or Mexico. (p.30)
+##
+New voters must register in-person by visiting a polling station or municipal election office,12 and providing
+their national ID book or a temporary identity certificate.1","Rosenberg, J. S., & Chen, M. (2009). Expanding democracy: Voter registration around the world. Brennan Centre for Justice Report
+##
+(Above article) South Africa Appendix (p.1 - Adding New Voters)
+https://www.brennancenter.org/sites/default/files/legacy/publications/Appendix.South.Africa.pdf",,
+South Africa 2014,,mixed,no,1,citizen initiated system - but state employs significant outreach efforts near elections to make registration more accessible,"South Africa - Each voter must register in-person at a local election office or voting station. To facilitate registration, the government hires thousands of temporary workers to register voters out of temporary stations that will be used as polling places. (p.5)
+
+Although South Africa requires voters to register in-person at their local voting station or election office, because South Africa’s central election authority employs tens of thousands of temporary workers every election cycle to open registration offices, conduct comprehensive government-sponsored registration drives, and otherwise facilitate registration, we do not consider it to have a self-initiated system akin to that of the Bahamas, Belize, Burundi, or Mexico. (p.30)
+##
+New voters must register in-person by visiting a polling station or municipal election office,12 and providing
+their national ID book or a temporary identity certificate.1","Rosenberg, J. S., & Chen, M. (2009). Expanding democracy: Voter registration around the world. Brennan Centre for Justice Report
+##
+(Above article) South Africa Appendix (p.1 - Adding New Voters)
+https://www.brennancenter.org/sites/default/files/legacy/publications/Appendix.South.Africa.pdf",,
+Spain 2004                   ,,passive,yes,2,"passive system, voter list created using existing population database","Spain has a passive system for voter registration. The Office of the Voters List within
+the National Statistics Institute is responsible for preparing the voter lists under the
+supervision of the CEC. Data is provided by municipalities and by consulates abroad. ","SPAIN - PARLIAMENTARY ELECTIONS - 14 March 2004
+OSCE/ODIHR ASSESSMENT REPORT 
+https://www.osce.org/odihr/elections/spain/31021?download=true",,
+Spain 2008                   ,,passive,yes,2,"passive system, voter list created using existing population database","Voter registration is the responsibility of the State and is conducted by the Electoral
+Census Office, which is part of the National Institute of Statistics.
+The Electoral Census Office has branches in each of the provinces. Municipal administration bodies and the
+Ministry of Foreign Affairs cooperate with the Office in compiling the voter list. The work
+of the Electoral Census Office is directed and supervised by the CEC.","SPAIN - PARLIAMENTARY ELECTIONS - 9 March 2008
+OSCE/ODIHR Election Assessment Mission Report
+https://www.osce.org/odihr/elections/spain/33187?download=true",,
+Sweden 2002                   ,,passive,yes,2,"passive system, voter list created using existing population database",,"Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), pp. 68-72",,
+Sweden 2006                  ,,passive,yes,2,"passive system, voter list created using existing population database",,,,
+Sweden 2014                   ,,passive,yes,2,"passive system, voter list created using existing population database","Voter registration is based on a continuously updated civil register compiled by the Tax Agency
+(Skatteverket), which includes the data of every person born in Sweden or who takes Swedish
+citizenship. The register data includes a person?s name, address, citizenship, place of birth,
+marital status, names of parents, children and spouse, along with immigration and emigration
+information, if applicable. Each person is assigned a unique personal identity number. ","SWEDEN - GENERAL ELECTIONS - 19 September 2010
+OSCE/ODIHR NEEDS ASSESSMENT MISSION REPORT 
+https://www.osce.org/odihr/elections/70947?download=true",,
+Switzerland 2003            ,,passive,yes,2,"passive system, voter list created using existing population database",,,,
+Switzerland 2007              ,,passive,yes,2,"passive system, voter list created using existing population database",,,,
+Switzerland 2011             ,,passive,yes,2,"passive system, voter list created using existing population database","Switzerland uses a passive system of voter registration. Each commune maintains a regularly
+updated population register from which the voter register is extracted. An efficient system ensures
+that people moving between communes or cantons are automatically transferred to the
+corresponding voter register and removed from the previous one. Amendments to the voter register
+may be made up to five days prior to the election. ","SWISS CONFEDERATION - FEDERAL ASSEMBLY ELECTIONS - 23 October 2011
+OSCE/ODIHR Election Assessment Mission Report 
+https://www.osce.org/odihr/87417?download=true",,
+Taiwan 2001                  ,,passive,yes,2,"automatic, passive registration system","Characteristics of Taiwan Elections
+1.     Electors do not have to actively register to vote
+Taiwan has a comprehensive household registration system. The compilation of the voter list/electoral register is handled by the Household Registration Offices 20 days prior to the Election Day. Hence, citizens do not have to actively register to vote, with the exception of citizens residing overseas during the Presidential and Vice Presidential election.","Taiwan Central Election Commission
+https://www.cec.gov.tw/english/cms/ctw",,
+Taiwan 2004                   ,,passive,yes,2,"automatic, passive registration system","Characteristics of Taiwan Elections
+1.     Electors do not have to actively register to vote
+Taiwan has a comprehensive household registration system. The compilation of the voter list/electoral register is handled by the Household Registration Offices 20 days prior to the Election Day. Hence, citizens do not have to actively register to vote, with the exception of citizens residing overseas during the Presidential and Vice Presidential election.","Taiwan Central Election Commission
+https://www.cec.gov.tw/english/cms/ctw",,
+Taiwan 2008                   ,,passive,yes,2,"automatic, passive registration system","Characteristics of Taiwan Elections
+1.     Electors do not have to actively register to vote
+Taiwan has a comprehensive household registration system. The compilation of the voter list/electoral register is handled by the Household Registration Offices 20 days prior to the Election Day. Hence, citizens do not have to actively register to vote, with the exception of citizens residing overseas during the Presidential and Vice Presidential election.","Taiwan Central Election Commission
+https://www.cec.gov.tw/english/cms/ctw",,
+Taiwan 2012                   ,,passive,yes,2,"automatic, passive registration system","Characteristics of Taiwan Elections
+1.     Electors do not have to actively register to vote
+Taiwan has a comprehensive household registration system. The compilation of the voter list/electoral register is handled by the Household Registration Offices 20 days prior to the Election Day. Hence, citizens do not have to actively register to vote, with the exception of citizens residing overseas during the Presidential and Vice Presidential election.","Taiwan Central Election Commission
+https://www.cec.gov.tw/english/cms/ctw",,
+Thailand 2007                 ,,mixed,no,1,"Thai's are issued a Tabien baan (house book) that proves their eligibility to vote in their municipality, issued by their local office
+The initial application process is typically carried out by housing developers etc, or individuals can contact the municpal offices directly to change their detals","Tabien baan or Thai house book is the official local government issued house or apartment address and resident registration booklet. It is an administrative document issued by the local municipality (amphur). The persons having their domicile or legal residence at the house or condo unit are registered in the house book.
+
+As a house book proves a person's domicile it is asked in official registration procedures such as the transfer of ownership of a car or real estate, opening a bank account or when applying for a new electricity or telephone line connection and gives for example Thais the right to vote in a district. 
+##
+The blue Ta Bien Bahn (Thor.Ror.14) for Thai nationals*
+The application for this document is done individually at the local registration office, called Amphur (or Khet in Bangkok). Application of house books are mostly done by builders, developers or architects constructing your house. The price to get this book is not very high, but you have to go through certain procedures.","https://www.thailandlawonline.com/article-older-archive/thai-house-registration-and-resident-book
+##
+http://www.thailawonline.com/en/property/thai-house-book-yellow-and-blue.html",,
+Thailand 2011                 ,,mixed,no,1,"Thai's are issued a Tabien baan (house book) that proves their eligibility to vote in their municipality, issued by their local office
+The initial application process is typically carried out by housing developers etc, or individuals can contact the municpal offices directly to change their detals","Tabien baan or Thai house book is the official local government issued house or apartment address and resident registration booklet. It is an administrative document issued by the local municipality (amphur). The persons having their domicile or legal residence at the house or condo unit are registered in the house book.
+
+As a house book proves a person's domicile it is asked in official registration procedures such as the transfer of ownership of a car or real estate, opening a bank account or when applying for a new electricity or telephone line connection and gives for example Thais the right to vote in a district. 
+##
+The blue Ta Bien Bahn (Thor.Ror.14) for Thai nationals*
+The application for this document is done individually at the local registration office, called Amphur (or Khet in Bangkok). Application of house books are mostly done by builders, developers or architects constructing your house. The price to get this book is not very high, but you have to go through certain procedures.","https://www.thailandlawonline.com/article-older-archive/thai-house-registration-and-resident-book
+##
+http://www.thailawonline.com/en/property/thai-house-book-yellow-and-blue.html",,
+Turkey 2011                  ,,passive,yes,2,Electoral roll is created based on existing national address register,"With the amendment to the Basic Provisions of Elections 298 and the Law on Voter Registers with the Law No. 5749, the voter registers are organized on the basis of the information provided by the General Directorate of Population and Citizenship Affairs Address Registration System. 
+##
+In order to prepare the register of qualified voters, the SBE uses a central voter registration
+system (SECSYS), which is linked online to a civil and address registry (MERNIS), operated
+by the Ministry of Interior. During election periods, the SBE accesses MERNIS on a daily
+basis to download the most up-to-date information and also receives online information about
+ineligible citizens such as army conscripts or prisoners from the Ministry of Defence and the
+Ministry of Justice. ","Turkey - Supreme Electoral Board Website
+http://www.ysk.gov.tr/tr/yurtici-secmen-sikca-sorulan-sorular/1515
+##
+REPUBLIC OF TURKEY - PARLIAMENTARY ELECTIONS - 12 June 2011 - OSCE/ODIHR Election Assessment Mission Report 
+https://www.osce.org/odihr/84588?download=true",,
+Turkey 2015,,passive,yes,2,Electoral roll is created based on existing national address register,"Turkey has a passive voter registration system. The SBE maintains a permanent central voter register
+linked to the civil and address registry operated by the Ministry of Interior.","REPUBLIC OF TURKEY - Parliamentary Elections - 7 June 2015 - OSCE/ODIHR Limited Election Observation Mission Final Report
+https://www.osce.org/odihr/elections/turkey/177926?download=true",,
+United States of America 2004,,active,no,0,"Registration laws vary by state. During these election periods all states used active, voter initiated registers rather than automatic ones. Automatic registration was introduced in some states from 2016 onwards.","Of the countries and provinces we studied, only four place the onus of voter registration entirely on the individual, as in the United States.","Rosenberg, J. S., & Chen, M. (2009). Expanding democracy: Voter registration around the world. Brennan Centre for Justice Report, p. 2",,
+United States of America 2008,,active,no,0,"Registration laws vary by state. During these election periods all states used active, voter initiated registers rather than automatic ones. Automatic registration was introduced in some states from 2016 onwards.","Of the countries and provinces we studied, only four place the onus of voter registration entirely on the individual, as in the United States.","Rosenberg, J. S., & Chen, M. (2009). Expanding democracy: Voter registration around the world. Brennan Centre for Justice Report, p. 2",,
+United States of America 2012,,active,no,0,"Registration laws vary by state. During these election periods all states used active, voter initiated registers rather than automatic ones. Automatic registration was introduced in some states from 2016 onwards.","Of the countries and provinces we studied, only four place the onus of voter registration entirely on the individual, as in the United States.","Rosenberg, J. S., & Chen, M. (2009). Expanding democracy: Voter registration around the world. Brennan Centre for Justice Report, p. 2",,
+Uruguay 2009                 ,,active,no,0,Voters must apply for a 'Civic Credential' from the Electoral Court in order to be eligible to vote,,"Massicotte et al., (2004), 'Establishing the Rules of the Game: Election Laws in Democracies', (University of Toronto Press: Toronto), p. 72
+##
+Uruguay Electoral Court
+http://www.corteelectoral.gub.uy/gxpsites/page.aspx?3,28,276,O,S,0,PAG;CONC;269;12;D;3824;1;PAG;",,
