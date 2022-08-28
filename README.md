@@ -4,7 +4,7 @@ Brian Paul Boyle
 Updated: 2022-08-28
 ####
 
-Voter registration dataset compatible with CSES waves 2-4. Data used in Boyle (2022) 'Engineering Democracy: Electoral Rules and Turnout Inequality'. Contains information on voter registration systems used across different countries and elections, specifically on whether registration is active and citizen initiated, or passive/automatic.
+Voter registration dataset compatible with CSES waves 2-4. Data used in Boyle (2022) 'Engineering Democracy: Electoral Rules and Turnout Inequality'. Contains information on voter registration systems used across different countries and elections, specifically on whether registration is active and citizen initiated, or passive/automatic. The full list of sources are included in the dataset .csv file.
 
 Please feel free to make use of this dataset by citing:
 Boyle, B. P. (2022). Engineering Democracy: Electoral Rules and Turnout Inequality. Political Studies, 00323217221096563
