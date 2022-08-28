@@ -17,4 +17,5 @@ Coding categories:
 
 Active: registration is active and citizen initiated
 Mixed: registration requires citizen activity, but the state either makes first contact or provides significant outreach support to register voters
-Passive: fully automatic registration (registers typically created from state led surveying or from other government data banks)
+Passive: fully automatic registration (registers typically created from state led surveying or from other government data banks).
+
